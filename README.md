@@ -1,4 +1,4 @@
-# Solutions for part 9 exercises
+# Solutions for part 10 exercises
 
 This part is all about TypeScript: and open-source typed superset of JavaScript developed by Microsoft that compiles to plain JavaScript.
 
